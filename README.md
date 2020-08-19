@@ -1,4 +1,2 @@
 # CoinCatch
-This is the source for a game i am writing in love2D,
-
-Nothing to see here
+This is the source code for my game "Coin Catch"
